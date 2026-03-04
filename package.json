@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "Zahar Nickiforov 1032253520@rudn.ru",
   "license": "CC-BY-4.0",
-  "packageManager": "pnpm@10.30.3"
+  "packageManager": "pnpm@10.30.3",
   "config": {
 	"comitizen": {
 		"path": "cz-conventional-changelog"
